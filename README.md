@@ -1,6 +1,8 @@
 # Cost-of-Living-Index-by-Country-2024-Analysis
 
-“Where Does Your Money Go the Furthest?”Introduction
+“Where Does Your Money Go the Furthest?”
+
+Introduction
 
 In a world where financial planning and global mobility intersect more than ever, understanding how far your money can go in different parts of the globe is no longer a luxury — it’s a necessity.
 
