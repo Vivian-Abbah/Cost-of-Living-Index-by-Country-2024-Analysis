@@ -199,30 +199,49 @@ The result is a data-rich, interactive decision-making tool that reshapes how we
 The dashboard transforms a flat cost-of-living index into a multi-dimensional model, revealing both opportunities and risks for people and organizations.
 
 Empowers remote workers to make smarter relocation choices.
+
 Equips employers to structure equitable global salaries.
+
 Aids policymakers in identifying economic vulnerabilities.
+
 Encourages investors to align capital with high-value regions.
+
 Key Learnings
+
 Purchasing Power Index is a game-changer — outweighs basic cost figures in relevance.
+
 DAX-based tiering simplifies complexity, making advanced concepts digestible.
+
 Visual storytelling (e.g., heatmaps and pie charts) increases clarity and emotional resonance.
+
 Inter-index comparison helps detect countries with economic imbalance.
+
 Limitations
+
 The dataset is based on user-contributed data (Numbeo), which may have regional biases.
+
 Lack of personal income tax rates limits net affordability understanding.
+
 Cities aren’t broken out — country-level analysis might mask local disparities.
+
 Future Research Directions
+
 Add tax rates and healthcare costs for net affordability.
+
 Integrate visa and immigration data for expats.
+
 Include city-level analysis to uncover metro-specific trends.
+
 Explore how inflation affects cost of living changes year-over-year.
+
 References & Appendices
 Primary Data Source:
 
-Numbeo Cost of Living Index 2024
+Cost of Living Index 2024
 Tools Used:
 
 Microsoft Power BI
+
 Power Query
 DAX Formulas
 Key DAX Logic:
